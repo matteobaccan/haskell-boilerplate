@@ -9,4 +9,4 @@ executable Main
   ghc-options: -Wall -O2
   -- extensions:
   build-depends:
-      base >=4.6 && <4.22
+      base >=4.6 && <4.23
